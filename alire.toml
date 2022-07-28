@@ -5,3 +5,6 @@ version = "0.0.1"
 authors = ["Gautier de Montmollin"]
 maintainers = ["Frédéric Praca <frederic.praca@free.fr>"]
 maintainers-logins = ["FredPraca"]
+tags = [ "text", "console"]
+licenses = "Apache-2.0"
+website = "http://cbsg.sf.net/"
