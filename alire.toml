@@ -1,0 +1,7 @@
+name = "cbsg"
+description = "Corporate Bullshit Generator library"
+version = "0.0.1"
+
+authors = ["Gautier de Montmollin"]
+maintainers = ["Frédéric Praca <frederic.praca@free.fr>"]
+maintainers-logins = ["FredPraca"]
